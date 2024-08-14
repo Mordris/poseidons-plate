@@ -35,7 +35,7 @@ const Footer = () => {
       >
         <IconButton
           color="inherit"
-          href="https://instagram.com/emregltp0"
+          href="https://instagram.com"
           aria-label="Instagram"
         >
           <Instagram />

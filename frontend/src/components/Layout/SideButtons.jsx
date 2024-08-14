@@ -24,32 +24,33 @@ const SideButtons = () => {
         href="https://wa.me/905380728983"
         color="primary"
         aria-label="WhatsApp"
-        sx={{ mb: 1 }}
+        sx={{ mb: 1, fontSize: 30 }}
       >
-        <WhatsAppIcon />
+        <WhatsAppIcon fontSize="inherit" />
       </IconButton>
       <IconButton
         href="tel:+905380728983"
         color="primary"
         aria-label="Call"
-        sx={{ mb: 1 }}
+        sx={{ mb: 1, fontSize: 30 }}
       >
-        <PhoneIcon />
+        <PhoneIcon fontSize="inherit" />
       </IconButton>
       <IconButton
         href="https://instagram.com/emregltp0"
         color="primary"
         aria-label="Instagram"
-        sx={{ mb: 1 }}
+        sx={{ mb: 1, fontSize: 30 }}
       >
-        <InstagramIcon />
+        <InstagramIcon fontSize="inherit" />
       </IconButton>
       <IconButton
         href="https://maps.google.com/?q=Hobyar Mah. Hamidiye Cad. No:16 Sirkeci/Istanbul/Turkey"
         color="primary"
         aria-label="Map"
+        sx={{ fontSize: 30 }}
       >
-        <MapIcon />
+        <MapIcon fontSize="inherit" />
       </IconButton>
     </Box>
   );
