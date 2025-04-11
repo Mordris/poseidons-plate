@@ -55,7 +55,7 @@ Welcome to Poseidon's Plate, a full-stack web application for a fictional fine-d
 1.  **Clone the Repository:**
 
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/Mordris/poseidons-plate
     cd poseidons-plate
     ```
 
