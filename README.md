@@ -6,10 +6,11 @@ Welcome to Poseidon's Plate, a full-stack web application for a fictional fine-d
 
 ### Screenshots
 
-|                                   |                                   |                                   |
-| :-------------------------------: | :-------------------------------: | :-------------------------------: |
-| ![](./screenshots/project9-1.png) | ![](./screenshots/project9-2.png) | ![](./screenshots/project9-3.png) |
-| ![](./screenshots/project9-4.png) | ![](./screenshots/project9-5.png) |                                   |
+|                                   |                                   |
+| :-------------------------------: | :-------------------------------: |
+| ![](./screenshots/project9-1.png) | ![](./screenshots/project9-2.png) |
+| ![](./screenshots/project9-3.png) | ![](./screenshots/project9-4.png) |
+|  ![](./screenshots/project9.png)  |                                   |
 
 ---
 
