@@ -30,7 +30,6 @@ Welcome to Poseidon's Plate, a full-stack web application for a fictional fine-d
 - **Themed Interface:** Consistent and appealing theme using Material-UI (`@mui/material`).
 
 ---
-
 ## Technology Stack
 
 - **Frontend:**
